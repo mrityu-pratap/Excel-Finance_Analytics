@@ -5,9 +5,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) report by _[Fiscal Year](https://github.com/mrityu-pratap/Excel-Finance_Analytics/blob/main/p%20%26%20l%20year.pdf)_
+    **1.** Create _[Profit and Loss (P&L) report by Fiscal Year](https://github.com/mrityu-pratap/Excel-Finance_Analytics/blob/main/p%20%26%20l%20year.pdf)_
 
-   **2.** Create Profit and Loss (P&L) report by _[Months](https://github.com/mrityu-pratap/Excel-Finance_Analytics/blob/main/p%20%26%20l%20month.pdf)_
+   **2.** Create _[Profit and Loss (P&L) report by Months](https://github.com/mrityu-pratap/Excel-Finance_Analytics/blob/main/p%20%26%20l%20month.pdf)_
 
 - **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
